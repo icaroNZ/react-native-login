@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@waxio/waxjs": "^1.0.4",
     "react": "17.0.2",
-    "react-native": "0.68.1"
+    "react-native": "0.68.1",
+    "react-native-inappbrowser-reborn": "^3.6.3",
+    "react-native-webview": "^11.18.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
